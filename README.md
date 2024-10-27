@@ -7,30 +7,28 @@
 
 **Aplicações e dados**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=flat&logoColor=white)
 
-**DevOps**
+**Ferramentas**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=white)
 
 <br/>
 
-<a href="https://github.com/michaelleoliveir" title="Perfil da Michaelle">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michaelleoliveir&theme=dracula&show_icons=true" />
-</a>
+<h4 align="center">Linguagens mais usadas :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelleoliveir&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelle-oliveira/)](https://www.linkedin.com/in/michaelle-oliveira/)
+[![Gmail Badge](https://img.shields.io/badge/-michaelle.oliveira101103@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelle.oliveira101103@gmail.com)](mailto:michaelle.oliveira101103@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/https://github.com/michaelleoliveir?label=follow&style=social)](https://github.com/michaelleoliveir)
