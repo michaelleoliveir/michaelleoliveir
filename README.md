@@ -29,6 +29,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelle-oliveira/)](https://www.linkedin.com/in/michaelle-oliveira/)
+[![Linkedin](https://img.shields.io/badge/-michaelleoliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelle-oliveira/)](https://www.linkedin.com/in/michaelle-oliveira/)
 [![Gmail Badge](https://img.shields.io/badge/-michaelle.oliveira101103@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelle.oliveira101103@gmail.com)](mailto:michaelle.oliveira101103@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/https://github.com/michaelleoliveir?label=follow&style=social)](https://github.com/michaelleoliveir)
