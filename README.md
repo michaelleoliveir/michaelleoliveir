@@ -1,6 +1,6 @@
 ## Sobre mim
 
-- 🎓 Estudande do 6° semestre de Análise e Desenvolvimento na FATEC Taubaté
+- 🎓 Estudante do 6° semestre de Análise e Desenvolvimento na FATEC Taubaté.
 - 🌱 Aprendendo mais sobre tecnologias front-end.
 
 ## Minhas Skills
