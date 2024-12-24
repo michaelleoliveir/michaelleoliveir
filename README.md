@@ -1,7 +1,8 @@
 ## Sobre mim
 
-- 🎓 Estudante do 6° semestre de Análise e Desenvolvimento na FATEC Taubaté.
-- 🌱 Aprendendo mais sobre tecnologias front-end.
+- 🎓 Graduada em Análise e Desenvolvimento de Sistemas pela FATEC Taubaté.
+- 📖 Cursando Pós-graduação em Desenvolvimento Full Stack na PUC Minas Gerais
+- 🌱 Aprendendo mais sobre tecnologias baseadas no JavaScript.
 
 ## Minhas Skills
 
