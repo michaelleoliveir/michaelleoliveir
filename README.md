@@ -1,8 +1,8 @@
-## 💜 Olá, meu nome é {Michaelle}!
+## 💜 Olá, meu nome é {Michaelle} !
 
-Me formei recentemente em Análise e Desenvolvimento de Sistemas pela FATEC Taubaté, onde, ao longo de seis semestres, mergulhei no universo do planejamento e desenvolvimento de software. Foi nesse período que descobri minha paixão pelo front-end, área que mais me atrai na programação. Tenho experiência em HTML, CSS e JavaScript há alguns anos e, mais recentemente comecei a me aprofundar mais no framework React. Tenho conhecimentos em Git e já criei projetos utilizando o PHP e Flutter.
+<p>▫️ Me formei recentemente em Análise e Desenvolvimento de Sistemas pela FATEC Taubaté, onde, ao longo de seis semestres, mergulhei no universo do planejamento e desenvolvimento de software. Foi nesse período que descobri minha paixão pelo front-end, área que mais me atrai na programação. Tenho experiência em HTML, CSS e JavaScript há alguns anos e, mais recentemente comecei a me aprofundar mais no framework React. Tenho conhecimentos em Git e já criei projetos utilizando o PHP e Flutter. </p>
 
-💬 Convido você a me acompanhar na minha jornada como programadora!
+<p> 💬 Convido você a me acompanhar na minha jornada como programadora! </p>
 
 ---
 
