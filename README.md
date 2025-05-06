@@ -1,8 +1,10 @@
 ## 💜 Olá, meu nome é {Michaelle} !
 
-<p>▫️ Me formei recentemente em Análise e Desenvolvimento de Sistemas pela FATEC Taubaté, onde, ao longo de seis semestres, mergulhei no universo do planejamento e desenvolvimento de software. Foi nesse período que descobri minha paixão pelo front-end, área que mais me atrai na programação. Tenho experiência em HTML, CSS e JavaScript há alguns anos e, mais recentemente comecei a me aprofundar mais no framework React. Tenho conhecimentos em Git e já criei projetos utilizando o PHP e Flutter. </p>
+Sou desenvolvedora front-end com formação em Análise e Desenvolvimento de Sistemas pela FATEC Taubaté e atualmente curso pós-graduação em Desenvolvimento Full Stack pela PUC Minas. Trabalho na Lacrei Saúde, onde colaboro no desenvolvimento e refatoração de interfaces acessíveis e responsivas.
 
-<p> 💬 Convido você a me acompanhar na minha jornada como programadora! </p>
+Minha paixão pelo front-end surgiu ainda na faculdade, e desde então venho me aprofundando em tecnologias como HTML, CSS, JavaScript, React, Next.js, Tailwind e TypeScript. Também tenho experiência com controle de versão usando Git e já desenvolvi projetos com PHP e Flutter, além de ter conhecimentos em Node.js e bancos de dados como MySQL, SQLite e Firebase.
+
+<p> 💬 Aqui no GitHub compartilho meus estudos, desafios e projetos pessoais. Fique à vontade para explorar! </p>
 
 ---
 
