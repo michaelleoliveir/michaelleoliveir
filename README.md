@@ -1,8 +1,8 @@
 ## 💜 Olá, meu nome é {Michaelle} !
 
-Sou desenvolvedora front-end com formação em Análise e Desenvolvimento de Sistemas pela FATEC Taubaté e atualmente curso pós-graduação em Desenvolvimento Full Stack pela PUC Minas. Trabalho na Lacrei Saúde, onde colaboro no desenvolvimento e refatoração de interfaces acessíveis e responsivas.
+<p>Sou desenvolvedora front-end com formação em Análise e Desenvolvimento de Sistemas pela FATEC Taubaté e atualmente curso pós-graduação em Desenvolvimento Full Stack pela PUC Minas. Trabalho na Lacrei Saúde, onde colaboro no desenvolvimento e refatoração de interfaces acessíveis e responsivas.</p>
 
-Minha paixão pelo front-end surgiu ainda na faculdade, e desde então venho me aprofundando em tecnologias como HTML, CSS, JavaScript, React, Next.js, Tailwind e TypeScript. Também tenho experiência com controle de versão usando Git e já desenvolvi projetos com PHP e Flutter, além de ter conhecimentos em Node.js e bancos de dados como MySQL, SQLite e Firebase.
+<p>Minha paixão pelo front-end surgiu ainda na faculdade, e desde então venho me aprofundando em tecnologias como HTML, CSS, JavaScript, React, Next.js, Tailwind e TypeScript. Também tenho experiência com controle de versão usando Git e já desenvolvi projetos com PHP e Flutter, além de ter conhecimentos em Node.js e bancos de dados como MySQL, SQLite e Firebase. </p>
 
 <p> 💬 Aqui no GitHub compartilho meus estudos, desafios e projetos pessoais. Fique à vontade para explorar! </p>
 
@@ -44,9 +44,5 @@ Minha paixão pelo front-end surgiu ainda na faculdade, e desde então venho me 
 
 ## Onde me encontrar
 
-<a href="https://www.linkedin.com/in/michaelle-oliveira/">
-    <img align="left" alt="Michaelle | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="mailto:michaelle.oliveira101103@gmail.com">
-    <img align="left" alt="Michaelle | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+<a href="https://www.linkedin.com/in/michaelle-oliveira/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+<a href="mailto:michaelle.oliveira101103@gmail.com" alt="E-mail"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a> 
