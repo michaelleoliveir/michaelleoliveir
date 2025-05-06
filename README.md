@@ -44,5 +44,5 @@
 
 ## Onde me encontrar
 
-<a href="https://www.linkedin.com/in/michaelle-oliveira/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+<a href="https://www.linkedin.com/in/michaelle-oliveira/" alt="Linkedin"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="30" width="30"></a>
 <a href="mailto:michaelle.oliveira101103@gmail.com" alt="E-mail"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a> 
