@@ -1,16 +1,22 @@
-## 💜 Olá, meu nome é {Michaelle} !
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=40&duration=3000&pause=10&color=F76363&multiline=true&width=650&height=140&lines=%24+whoami;michaelle+oliveira)](https://git.io/typing-svg)
 
-<p>Sou desenvolvedora front-end com formação em Análise e Desenvolvimento de Sistemas pela FATEC Taubaté e atualmente curso pós-graduação em Desenvolvimento Full Stack pela PUC Minas. Trabalho na Lacrei Saúde, onde colaboro no desenvolvimento e refatoração de interfaces acessíveis e responsivas.</p>
+<h2 align="center">❤️ Olá, meu nome é {Michaelle} !</h2>
 
-<p>Minha paixão pelo front-end surgiu ainda na faculdade, e desde então venho me aprofundando em tecnologias como HTML, CSS, JavaScript, React, Next.js, Tailwind e TypeScript. Também tenho experiência com controle de versão usando Git e já desenvolvi projetos com PHP e Flutter, além de ter conhecimentos em Node.js e bancos de dados como MySQL, SQLite e Firebase. </p>
 
-<p> 💬 Aqui no GitHub compartilho meus estudos, desafios e projetos pessoais. Fique à vontade para explorar! </p>
+<p align='center'><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="300"></p>
 
----
+  - 🔭 Atualmente curso pós graduação em Desenvolvimento Fullstack na PUC Minas Gerais
+  - 🌱 Sou formada em Análise e Desenvolvimento de Sistemas pela FATEC Taubaté
+  - 🤓 Sou Desenvolvedora Front-end Júnior na Innova Tech One
+  - ⚡ Me pergunte sobre música. Amo falar sobre música
 
-<h4 align="center">Linguagens mais usadas :tongue:</h4>
+<h3 align="center">✨ Stats ✨</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelleoliveir&theme=dark&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=michaelleoliveir&theme=date-night" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
@@ -38,7 +44,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=figma,vercel"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=figma,vercel,aws"/></td>
     </tr>
 </table>
 
