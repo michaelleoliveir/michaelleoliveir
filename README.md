@@ -7,7 +7,7 @@
 
   - 🔭 Atualmente curso pós graduação em Desenvolvimento Fullstack na PUC Minas Gerais
   - 🌱 Sou formada em Análise e Desenvolvimento de Sistemas pela FATEC Taubaté
-  - 🤓 Sou Desenvolvedora Front-end Júnior na Innova Tech One
+  - 🤓 Sou Desenvolvedora Front-end Júnior no Pipoca Ágil
   - ⚡ Me pergunte sobre música. Amo falar sobre música
 
 <h3 align="center">✨ Stats ✨</h4>
