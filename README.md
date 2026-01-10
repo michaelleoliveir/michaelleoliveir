@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=michaelleoliveir)](https://git.io/streak-stats)
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=michaelleoliveir&icons=true&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
 
