@@ -7,14 +7,15 @@
 
   - 🔭 Atualmente curso pós graduação em Desenvolvimento Fullstack na PUC Minas Gerais
   - 🌱 Sou formada em Análise e Desenvolvimento de Sistemas pela FATEC Taubaté
-  - 🤓 Sou Desenvolvedora Front-end Júnior no Pipoca Ágil e Fulldev
+  - 🤓 Sou Desenvolvedora Front-end Júnior Fulldev e Prontax
   - ⚡ Me pergunte sobre música. Amo falar sobre música
+  - 🥭 No momento, estou trabalhando na refatoração do meu Projeto de Conclusão de Curso, EventRide, utilizando todo conhecimento que adquiri após a conclusão da faculdade.
 
 <h3 align="center">✨ Stats ✨</h4>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=michaelleoliveir&theme=date-night" alt="GitHub Streak" />
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=michaelleoliveir)](https://git.io/streak-stats)
   </a>
 </p>
 
@@ -24,15 +25,15 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,nodejs,express,mysql"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=php,nodejs,express,typescript"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,bootstrap,react,nextjs,svelte,angular"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs,svelte,angular"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,firebase"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,firebase,mysql"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
