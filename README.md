@@ -7,9 +7,8 @@
 
   - 🔭 Atualmente curso pós graduação em Desenvolvimento Fullstack na PUC Minas Gerais
   - 🌱 Sou formada em Análise e Desenvolvimento de Sistemas pela FATEC Taubaté
-  - 🤓 Sou Desenvolvedora Front-end Júnior Fulldev e Prontax
+  - 🤓 Sou Desenvolvedora Júnior Fulldev e Prontax
   - ⚡ Me pergunte sobre música. Amo falar sobre música
-  - 🥭 No momento, estou trabalhando na refatoração do meu Projeto de Conclusão de Curso, EventRide, utilizando todo conhecimento que adquiri após a conclusão da faculdade.
 
 <h3 align="center">✨ Stats ✨</h4>
 
